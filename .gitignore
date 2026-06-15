@@ -1,0 +1,10 @@
+# PyTorch model checkpoints
+*.pt
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
